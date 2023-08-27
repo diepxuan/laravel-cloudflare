@@ -13,9 +13,6 @@
       "email": "ductn@diepxuan.com"
     }
   ],
-  "require": {
-    "laravel/framework": "^10"
-  },
   "autoload": {
     "psr-4": {
       "Cloudflare\\API\\": "src/"
